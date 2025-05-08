@@ -1,1 +1,4 @@
 .venv/
+Source/
+__pycache__/
+Output/
